@@ -19,7 +19,9 @@
     padding: 9px 25px;
     cursor: pointer;
 }
-
+.imtext{
+    padding: 10px 30px;
+}
 .cat1, .cat2, .cat3{
     background-image: linear-gradient(to right, rgb(105, 105, 35) 40%, rgb(207, 207, 13) 100%);
     padding: 10px 30px;
